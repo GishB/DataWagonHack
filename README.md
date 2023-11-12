@@ -40,4 +40,4 @@
     7. Search for the best hyperparameters for ML models.
 
 #### Results:
-    pass
+    The best score was achieved by using simple ```var.tail(3).mean()``` method.
